@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Manisha 👋
 
-<!--
-**manisha-kumari-dev-in/manisha-kumari-dev-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineer focused on platform engineering, developer tooling, and automation.
 
-Here are some ideas to get you started:
+I build internal systems that reduce friction in development, from streamlining workflows and improving release reliability to making developer environments easier to use and maintain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work sits at the intersection of:
+- ⚙️ Developer experience
+- 🏗️ Platform systems
+- 🤖 Workflow automation
+- 🛠️ Internal tooling
+- ✨ AI-assisted engineering
+
+I enjoy building systems that make engineering faster, cleaner, and more reliable.
+
+---
+
+## 🚀 What I Work On
+
+- Developer tooling and internal platform systems
+- Workflow automation and release reliability
+- Platform operations and engineering productivity
+- AI-enabled developer workflows
+- Internal CLI and tooling systems
+
+---
+
+## 🧰 Tech I Work With
+
+### 💻 Languages
+Python · Go · TypeScript · JavaScript
+
+### ☁️ Platform / Infra
+AWS · Docker · Kubernetes · Terraform · CI/CD · Linux
+
+### 🎯 Focus Areas
+Platform Engineering · Developer Experience · Automation · Internal Tooling · DevOps
+
+---
+
+## 🔭 Current Focus
+
+Right now I’m focused on building systems that improve:
+- Developer productivity
+- Platform reliability
+- Internal automation
+- AI-assisted engineering workflows
+
+---
+
+## 🧠 Philosophy
+
+I like building systems that remove friction.
+
+If a workflow is repetitive, it should be automated.  
+If a process is fragile, it should be made reliable.  
+If a tool is painful to use, it should be redesigned.
+
+---
